@@ -33,6 +33,7 @@ Welcome to my personal chess improvement project! This site is a living journal 
 - HTML/Markdown
 - [Chart.js](https://www.chartjs.org/) for rating visualization
 - Markdown for game data and journal entries
+
 ---
 
 ## 🧠 Why This Project?
