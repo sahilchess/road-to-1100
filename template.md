@@ -1,17 +1,17 @@
-## 🕐 Hour [0] — [Date] [Start Time] to [End Time]
+## 🕐 Hour [0] — [Date] 
 
 **Starting Rating:** 
 
 **Ending Rating:**
 
-| Game | Opponent Rating | Result | Rating Change | Game Link | Notes |
-|------|------------------|--------|----------------|-----------|-------|
-| 1    |                  |        |                |           |       |
-| 2    |                  |        |                |           |       |
-| 3    |                  |        |                |           |       |
-| 4    |                  |        |                |           |       |
-| 5    |                  |        |                |           |       |
-| 6    |                  |        |                |           |       |
+| Game | Opp. Rat. | W/D/L | ELO Diff |              Game Link                |             Notes           |
+|------|-----------|-------|----------|---------------------------------------|-----------------------------|
+| 1    |           |       |          |                                       |                             |
+| 2    |           |       |          |                                       |                             |
+| 3    |           |       |          |                                       |                             |
+| 4    |           |       |          |                                       |                             |
+| 5    |           |       |          |                                       |                             |
+| 6    |           |       |          |                                       |                             |
 
 ### 🧠 Reflections
 - What went well:
