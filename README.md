@@ -22,8 +22,6 @@ Welcome to my personal chess improvement project! This site is a living journal 
 
 - 📝 **Journal Entries**: Reflections on key games, tactics, and lessons learned.
 
-- ♟️ **PGN Viewer**: Embedded chessboard to replay and analyze select games.
-
 - 🧩 **Modular Design**: Each section is a self-contained component, making it easy to expand or integrate into a larger app suite.
 
 ---
